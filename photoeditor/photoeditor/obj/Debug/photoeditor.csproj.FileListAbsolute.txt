@@ -1,0 +1,10 @@
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.exe.config
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.exe
+D:\photoeditor\photoeditor\bin\Debug\photoeditor.pdb
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csprojResolveAssemblyReference.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.Properties.Resources.resources
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.GenerateResource.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.csproj.CoreCompileInputs.cache
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.exe
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.pdb
+D:\photoeditor\photoeditor\obj\Debug\photoeditor.Form1.resources
